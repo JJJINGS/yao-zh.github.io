@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-China"
 site_theme               : "default"
-title                    : "zh yao / Homepage"
+title                    : "yao zh / Homepage"
 title_separator          : "-"
-name                     : &name "zh yao"
+name                     : &name "yao zh"
 description              : &description "funny but boring"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yao-zh.githib.io    # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "1.png"
-  name             : "zh yao"
-  pronouns         : "geo"  
+  name             : "yao zh"
+  pronouns         : "can be pronounced as george heng"  
   bio              : "funny but boring"
   location         : "China"
   employer         : "Nanjing University"
-  uri              : https://zh-yao.githib.io # URL
+  uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
