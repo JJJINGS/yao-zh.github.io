@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a sophomore student from NJU(https://nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). My research interest includes mathematics,reinforcement learning,large language model,etc.
+I'm a sophomore student from [Nanjing University](https://www.nju.edu.cn/). My research interest includes mathematics,reinforcement learning,large language model,etc.
 
 I am now learing in [the department of mathematics](https://math.nju.edu.cn/).You can find my CV here: [XX's Curriculum Vitae](not yet).
 
@@ -16,15 +16,15 @@ I am now learing in [the department of mathematics](https://math.nju.edu.cn/).Yo
 
 Leasons
 ======
-**Discrete mathematics**[click this](https://www.zhihu.com/column/c_1883565670601584774)
+Discrete mathematics[click this](https://www.zhihu.com/column/c_1883565670601584774)  
 
-**Data Structure**[click this](https://spricoder.github.io/categories/2019-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
+Data Structure[click this](https://spricoder.github.io/categories/2019-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)  
 
-**Other resources**[click this](https://github.com/cattopo/TG-files?tab=readme-ov-file)
+Other resources[click this](https://github.com/cattopo/TG-files?tab=readme-ov-file)  
 
 Projects
 ======
-**Medical Moe** [click this](https://github.com/JJJINGS?tab=repositories)
+Medical Moe [click this](https://github.com/JJJINGS?tab=repositories)
 
 
 For more info
