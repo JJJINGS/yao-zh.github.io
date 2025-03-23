@@ -17,7 +17,9 @@ I am now learing in [the department of mathematics](https://math.nju.edu.cn/).Yo
 Leasons
 ======
 **Discrete mathematics**[click this](https://www.zhihu.com/column/c_1883565670601584774)
+
 **Data Structure**[click this](https://spricoder.github.io/categories/2019-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
+
 **Other resources**[click this](https://github.com/cattopo/TG-files?tab=readme-ov-file)
 
 Projects
